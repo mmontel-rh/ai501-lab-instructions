@@ -17,7 +17,7 @@ Let's setup the foundation of our GitOps system and deploy all the components we
 
 ## Log in to the cluster:
 
-In order to interact with OpenShift via the command line ou will need to log into the cluster: 
+In order to interact with OpenShift via the command line ou will need to log into the cluster. Using the terminal window in Visual Studio Code: 
 
   ```bash
     export CLUSTER_DOMAIN=<CLUSTER_DOMAIN>
