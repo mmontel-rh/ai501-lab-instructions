@@ -71,7 +71,7 @@ llama32
 ```
 - Model URL: 
 ```
-https://llama32-ai501.<CLUSTER_DOMAIN>/v1/chat/completions
+https://llama32-ai501.<CLUSTER_DOMAIN>/
 ```
 
 ..now, it is up to what you feel like trying 🧪  
