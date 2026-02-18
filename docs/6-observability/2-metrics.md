@@ -88,7 +88,13 @@ Let's deploy a Grafana instance in your toolings namespace to support the end-to
 
    ![Grafana Issue 1](./images/grafana-argocd-issue.png)
 
-5. To view the dashboards, navigate to **Dashboards** → **Browse** and look for the `<USER_NAME>-toolings Canopy Dashboards` folder.
+5. Create a connection to the Prometheus data source: navigate to **Connections** → **Data sources** then choose **UWM Prometheus** scroll down and click **Save & test**.
+
+   ![Grafana Data Source 1](./images/grafana-data-source1.png)
+
+   ![Grafana Data Source 2](./images/grafana-data-source2.png)
+
+6. To view the dashboards, navigate to **Dashboards** → **Browse** and look for the `<USER_NAME>-toolings Canopy Dashboards` folder.
 
    ![Obsv 1](./images/metrics1.png)
 
