@@ -48,7 +48,7 @@ By the end of this module, you will be able to:
 
 # 🔨 Tools Used in This Module
 
-* **LiteMaaS** — A lightweight Models as a Service platform built by Red Hat AI Services
+* **LiteMaaS** — A lightweight, Open Source, Models-as-a-Service proof-of-concept application 
   * React + PatternFly 6 frontend for beautiful, accessible UIs
   * Fastify + PostgreSQL backend for robust API management
   * LiteLLM integration for OpenAI-compatible API proxy

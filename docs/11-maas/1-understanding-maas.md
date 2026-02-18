@@ -153,7 +153,7 @@ If you can't measure it, you can't manage it. MaaS provides full visibility into
 
 ## 🏗️ Introducing LiteMaaS
 
-For this module, we'll use **LiteMaaS** — a lightweight MaaS implementation built by Red Hat AI Services.
+For this module, we'll use **LiteMaaS** — a lightweight, Open Source, Models-as-a-Service proof-of-concept application
 
 ```mermaid
 flowchart TB
